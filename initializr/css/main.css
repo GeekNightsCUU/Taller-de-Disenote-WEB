@@ -1,0 +1,108 @@
+body{
+    background: white;
+    text-align: center;
+}
+
+#mipizzita{
+    width: 200px;
+}
+
+h1{
+    background: yellow;
+    border-bottom: solid 15px red ;
+    width: 100%;
+}
+
+#parrafito{
+  color: #AEAEAE;
+  display: inline-block;
+  font-family: 'Geniso';
+  font-size: 24px;
+  padding: 30px;
+  width: 60%;
+}
+
+.geek_p{
+  font-size: 32px;
+  font-family: 'Geniso';
+  padding: 0;
+  margin: 0;
+}
+#tarjetas_contenedor ul{
+    display: inline-block;
+    list-style-type: none;
+    padding: 0;
+    width: 70%;
+}
+
+#tarjetas_contenedor ul li{
+    background: #A0EED6;
+    border-radius: 20px;
+    display: inline-block;
+    color: red;
+    margin: 0;
+    padding: 1em;
+    margin: 0.5em 0.25em;
+    height: 100px;
+    vertical-align: top;
+    width: 45%;
+}
+
+#tarjetas_contenedor ul li img{
+  float: left;
+  padding-left: 2em;
+}
+
+#tarjetas_contenedor ul li .text_container{
+  display: inline-block;
+  text-align: left;
+  width: 60%;
+}
+#tarjetas_contenedor ul li .text_container h3{
+  color: black;
+  font-family: 'BebasNeue Regular';
+  font-size: 22px;
+  margin-top: 2px;
+}
+
+.text_container h3 span{
+  font-size: 0.6em;
+}
+#tarjetas_contenedor ul li .text_container p{
+  color: #AEAEAE;
+  font-family: 'Geniso';
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+}
+
+
+.social_image_container{
+  display: inline-block;
+  padding: 0;
+  list-style-type: none;
+  width: 100%;
+}
+
+.social_image_container li{
+  display: inline-block;
+  margin: 0 8px;
+}
+.social_image{
+  display: inline-block;
+  opacity: 0.8;
+  width: 50px;
+}
+.social_image:hover{
+  opacity: 1;
+}
+
+footer{
+  background: #303030;
+  color: white;
+  font-family: 'BebasNeue Regular';
+  font-size: 20px;
+  padding: 1em;
+}
+
+/*holasoyuncomentario*/

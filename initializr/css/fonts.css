@@ -1,0 +1,14 @@
+/*con algo llamado @font-face se cargan las fuentes*/
+/*cuidado con las fuentes que usar, muchas veces necesitas alguna licencia para poder usar en web*/
+/*si quieres fuentes gratis puedes ir a google.com/fonts y son libres de uso*/
+
+
+@font-face {
+    font-family: 'Geniso';
+    src: url(../fonts/GENISO.ttf);
+}
+
+@font-face {
+    font-family: 'BebasNeue Regular';
+    src: url(../fonts/BebasNeue.otf);
+}
